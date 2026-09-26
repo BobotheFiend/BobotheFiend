@@ -9,15 +9,21 @@ String [] educations = { "Babcock University", "Semicolon" };
 
 ## TOOLS! 😏️
 tools = [
-![Java](https://shields.io)
-![Python](https://shields.io)
-![Go](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
+'Python',
+'Java',
+'JavaScript',
+'Go',
+'',
 
+'React',
+'HTML',
+'CSS',
+'',
 
+'MySQL',
+'MongoDB',
+
+'HI'
 ]
 
 
