@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+String name = "Aniakor Nnamdi Caven"; 
+
+String [] Education = { "Babcock University", "Semicolon" }; 
 <!--
 **BobotheFiend/BobotheFiend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
