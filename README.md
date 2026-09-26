@@ -1,4 +1,4 @@
-## Hello! and WELCOME!! ![Your GitHub Stats](https://vercel.app)
+## Hello! and WELCOME!!
 
 
 
@@ -20,15 +20,6 @@ tools = [
 
 ]
 
-
-![Top Langs](https://vercel.app)
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="BobotheFiend's GitHub stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
-</p>
 
 <!--
 # Hi there, I'm BobotheFiend! 👋
